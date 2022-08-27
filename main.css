@@ -1,0 +1,82 @@
+* {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   }
+   
+   body {
+     background-image: url(https://melhores-filmes-netflix.com/wp-content/uploads/2022/02/1644215379_950_How-Can-Netflix-Keep-Its-Streaming-Crown.jpg);
+       background-repeat: no-repeat;
+     background-size: cover;
+   }
+   header p {
+     color: red;
+     font-weight: bold;
+     font-size: 40px;
+     font-family: 'DynaPuff', serif;
+   }
+   .entrar {
+     font-family: 'DynaPuff', Helvetica, Arial, sans-serif;
+     font-weight: bold;
+     font-size: 20px;
+     color: white;
+     
+   }
+   header {
+     
+     height: 80PX;
+    
+   }
+   
+   .login {
+     
+     height: 80%;
+     display: flex;
+     justify-content: center;
+     
+   }
+   
+   .flix {
+     display: flex;
+     flex-direction: column;
+   }
+   
+   .caixa {
+     border: solid 1px;
+     height: 350px;
+     width: 250px;
+     border-radius: 15px;
+     background-color: #000;
+     display: flex;
+     flex-direction: column;
+     gap: 10px;
+     align-items: center;
+     padding: 60px 68px 40px;
+     opacity: 0.92
+   }
+   
+   button {
+     width: 200px;
+     height: 40px;
+     background-color: red;
+     border: 0;
+     border-radius: 5px;
+   }
+   
+   .entrada {
+       width: 200px;
+       height: 40px;
+       border-radius: 5px;
+   }
+   
+   p {
+     text-align: left;
+   }
+   
+   input {
+     background-color: #999;
+     border: 0;
+   }
+   
+   label {
+     color: grey;
+     font-size: 15px;
+   }
