@@ -80,3 +80,10 @@
      color: grey;
      font-size: 15px;
    }
+
+   .help {
+    justify-content:flex-end;
+    display: flex;
+    font-size: 16px;
+    padding: 10px;
+   }
